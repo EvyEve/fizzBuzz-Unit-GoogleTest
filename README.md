@@ -1,7 +1,7 @@
 Author: Eva Cedent
 CS360 - Assignment_5
 
-# UNIT Test Instructions:
+# Unit Test Instructions:
 
 # 1 First part of Unit test using casset function:
 	 run " ./compileCaTest.sh " script file -- To have " FizzCTest.out" executable file
