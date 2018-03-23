@@ -1,12 +1,12 @@
 Author: Eva Cedent
 CS360 - Assignment_5
 
-UNIT Test INSTRUCTIONS:
+# UNIT Test INSTRUCTIONS:
 
-#1 First part of Unit test using casset function:
+# 1 First part of Unit test using casset function:
 	 run " ./compileCaTest.sh " script file -- To have " FizzCTest.out" executable file
 	then run  " ./FizzCTest.out "
 
-#2 Second part of Unit test using googletest libraries and functions:
+# 2 Second part of Unit test using googletest libraries and functions:
 	run " ./compileGoTest.sh " script file  -- To have " FizzGTest.out " executable file
 	then run " ./FizzGTest.out "
