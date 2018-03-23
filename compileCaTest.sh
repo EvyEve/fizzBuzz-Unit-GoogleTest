@@ -2,7 +2,7 @@
 
 #Shell script to compile and make Fizz.out executable
 
-Name=FizzCTest.out
+Name=FizzCT.out
 
 g++ -o $Name Fizz.h FizzCTest.cpp
 
