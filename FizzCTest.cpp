@@ -16,17 +16,21 @@ int main()
 {
 	cout <<"Testing fizzbuzz function against given inputs:....\n";
 	
-	assert(fizzbuzz("friend") == "fizz");
+	cout << fizzbuzz("quiz");
+	cout << fizzbuzz("nice");
+	cout << fizzbuzz("futz");
+	cout << fizzbuzz("friend");
+/*
 	assert(fizzbuzz("quiz") == "buzz");
-	assert(fizzbuzz("nice") == "nice");
+	assert((fizzbuzz("nice") == "nice");
 	assert(fizzbuzz("banana") == "banana");
 	assert(fizzbuzz("jeez") == "buzz");
 	assert(fizzbuzz("fizz") == "fizzbuzz");
 	assert(fizzbuzz("futz") == "fizzbuzz");
 	assert(fizzbuzz("puzzle") == "puzzle");
 	
-	cout << "All test cases PASSED.\n";
-
+	//cout << "All test cases PASSED.\n";
+*/
 	return 0;
 
 }
